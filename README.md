@@ -12,7 +12,7 @@ flutter run
 <img alt="phlox drawer" src="./assets/images/phlox_drawer.gif" height="512em"/>
 
 <br><br>
-[Watch it on Youtube](https://youtube.com)
+[Watch it on Youtube](https://youtu.be/qhjPdMdgaM4)
 
 
 ## Links
