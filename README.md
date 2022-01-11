@@ -1,7 +1,7 @@
 ## Example Phlox_Drawer
 
 ### cover
-![flutter phlox drawer](./assets/images/cover.jpg?raw=true "Optional Title")
+![flutter phlox drawer](./assets/images/youtube-thumbnail.jpg?raw=true "Optional Title")
 
 ```
 flutter pub get
